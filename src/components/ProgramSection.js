@@ -138,7 +138,7 @@ const ProgramSection = () => {
         <p className="important-text">Registration closes on January 23rd or once capacity has been reached.</p>
         
         <p>
-        Any school with students in 8th grade and above is eligible to participate with teams of no more than four students per team ($50 per team). Additionally, each team/school must be accompanied by a chaperone for the entire duration of the activity.
+        Any school with students in 9th grade and above is eligible to participate with teams of no more than four students per team ($50 per team). Additionally, each team/school must be accompanied by a chaperone for the entire duration of the activity.
         </p>
         <p>
         Participants must have some experience with any programming language (e.g., Python, C#, Java, JavaScript, HTML/CSS...).      </p>
